@@ -31,7 +31,7 @@ I am a skilled MERN stack developer, specializing in creating exceptional digita
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BidhanCR&show_icons=true&count_private=true)  
 
-[![BidhanCR github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BidhanCR)](https://github.com/BidhanCR/github-readme-activity-graph)
+[![BidhanCR github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BidhanCR&theme=chartreuse-dark)](https://github.com/BidhanCR/github-readme-activity-graph)
 
 ![GitHub metrics](https://metrics.lecoq.io/BidhanCR)  
 
